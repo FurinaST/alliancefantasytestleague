@@ -11,6 +11,8 @@ export const homepageText = `
   <p>This branch of the official homepage for the C1 is where players can view their matchups, trades, history, and all other accessible information through the website instead of Sleeper.</p>
   <p>League history will be accurately preserved here for now and all future seasons.</p>
   <p>This site will also function as an easy way to view AA Cup matchups all leagues.</p>
+  <p> </p>
+  <p> </p>
 `;
 
 /*   STEP 3   */
