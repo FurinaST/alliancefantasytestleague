@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1187675494487425024"; // your league ID
+export const leagueID = "1312131153473327104"; // your league ID
 export const leagueName = "AFF Champions League"; // your league name
 export const dues = 25; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
